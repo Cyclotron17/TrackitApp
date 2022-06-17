@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrackIt</string>
+    <string name="_400">$400</string>
+    <item name="textColor" type="color">
+        <color name="teal_700">#FF018786</color>
+    </item>
+    <item name="colorControlActivated" type="color">
+        <color name="grean">@color/Green</color>
+    </item>
+</resources>
